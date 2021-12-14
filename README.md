@@ -1,2 +1,13 @@
-# property_sales
-This analysis focuses on property sales and specifically it refers to 1500 property sales that had occurred in Ames, Iowa between the years 2006 and 2010. It includes descriptive, exploratory and predictive analysis using R.
+# Property Sales
+The data of this assignment refer to the database of the Ames City Assessor’s Office. It includes a large number of variables and observations within the data set and they refer to 1500 property sales that had occurred in Ames, Iowa between 2006 and 2010. A mix of 82 nominal, ordinal, continuous, and discrete variables were used in the calculation of the assessed values. The dataset included physical property measurements in addition to computation variables used in the city’s assessment process. All variables focus on the quality and quantity of many physical attributes of the property. Most of the variables are exactly the type of information that a typical home buyer would want to know about a potential property <br />
+
+The main project includes 2930 property transactions, but it was shrinked to 1500 observations and other 500 which consist our test-sample, details have be discussed in the report. The problem which was the initial motivation to write this report was that it has been observed many variations as far as the pricing of the houses is concerned and for real estate there wasn’t any formula to include all the parameters that form a housing price. So, the aim of this report is to learn more about the field of real estate and perform a drill through analysis in order to find a model that will predict the houses’ pricing. <br />
+
+This report starts with descriptive and exploratory data analysis, where will be discussed few things about the clearing of the initial data and what was found from a first insight. It is mentioned some general information on what characteristics a typical property has and in addition to that some graphical visualizations are presented. After that, is made some basic comparisons between the variables of the data and then it follows the regression analysis. This report focuses on the model that was selected and in brief the steps which were followed. Then is discussed the predictive analysis of the final model, the assumptions that are fulfilled and the model is interpreted in order to understand the typical profile of a property. Finally, some comparisons are done between the final model and other linear models and the selection of the model is justified, based upon the indicators and the metrics we have. There has been given some open issues that were found and a few suggestions for further research are being proposed. <br / >
+
+This project has been written for the needs of the cource "Statistics for BA I" offered by the Master of Science in Business Analytics of the Athens University of Economics and Business and the analysis performed using R.
+
+# Author
+[Anastasios Theodorou](https://github.com/antheodorou)
+
+### For more details see at De Cock (2011).
